@@ -6,7 +6,7 @@ public class TollBooth {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter vehical. Type 'done' for the number to stop...");
+        System.out.println("Type 'done' for the number to stop...");
 
         int totalToll = 0;
         int bikeCount = 0;
